@@ -1,0 +1,67 @@
+Welcome to our dictionary!
+Type in a word to find it in the dictionary, or 'q' to quit
+achiev
+Sorry, we didn't find your word ACHIEV
+We did, however, find the following words that resemble ACHIEV
+achive achier achieve 
+Would you like to search for another word?
+
+achiese
+Sorry, we didn't find your word ACHIESE
+We did, however, find the following words that resemble ACHIESE
+achieve achiest achinese 
+Would you like to search for another word?
+
+achievee
+Sorry, we didn't find your word ACHIEVEE
+We did, however, find the following words that resemble ACHIEVEE
+achieves achiever achieved achieve 
+Would you like to search for another word?
+
+ahcieve
+Sorry, we didn't find your word AHCIEVE
+We did, however, find the following words that resemble AHCIEVE
+achieve 
+Would you like to search for another word?
+
+q
+Depth: 36
+Nodes at depth 0: 1
+Nodes at depth 1: 2
+Nodes at depth 2: 4
+Nodes at depth 3: 8
+Nodes at depth 4: 16
+Nodes at depth 5: 32
+Nodes at depth 6: 64
+Nodes at depth 7: 121
+Nodes at depth 8: 218
+Nodes at depth 9: 383
+Nodes at depth 10: 628
+Nodes at depth 11: 990
+Nodes at depth 12: 1513
+Nodes at depth 13: 2208
+Nodes at depth 14: 2949
+Nodes at depth 15: 3889
+Nodes at depth 16: 4772
+Nodes at depth 17: 5670
+Nodes at depth 18: 6251
+Nodes at depth 19: 6688
+Nodes at depth 20: 6690
+Nodes at depth 21: 6448
+Nodes at depth 22: 5890
+Nodes at depth 23: 5101
+Nodes at depth 24: 4244
+Nodes at depth 25: 3254
+Nodes at depth 26: 2395
+Nodes at depth 27: 1789
+Nodes at depth 28: 1177
+Nodes at depth 29: 705
+Nodes at depth 30: 429
+Nodes at depth 31: 236
+Nodes at depth 32: 138
+Nodes at depth 33: 60
+Nodes at depth 34: 25
+Nodes at depth 35: 9
+The average depth of all nodes is 19.65
+The first word in the dictionary is abactinally
+The last word in the dictionary is darndests
